@@ -5,9 +5,9 @@
 - Front end
    - HTML
    - CSS
-   - Javascript ** for animation and responsive design**
+   - Javascript 
 - Back end
    - PHP 
-   - SQL ** for create and manage Database**
+   - SQL 
 - Host
    - XAAMP
